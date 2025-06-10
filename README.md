@@ -1,7 +1,7 @@
 ##  我是谁？
 - 👋 我是刘焕勇，liuhuanyong，现任360人工智能研究院资深算法专家，知识图谱及文档理解方向负责人，曾就职于中国科学院软件研究所
 
-## 我的一些兴趣？
+## 我在做的事儿
 - 💗 **研究方向**：知识图谱(Knowledge Graph)、文档智能（Document Intelligence）、RAG知识增强(Retrieval-Augmented Generation)、文本计算(Text Computation)
   
 - 🧵 **主导或参与项目**：全行业事理图谱(学迹)、360百科图谱(右侧推荐)、360自研文档解析系统(360Structure)，360智脑大模型(数据挖掘与评测)；
