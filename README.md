@@ -15,3 +15,5 @@
 - 📐 **技术分享**：ISC2024(世界互联网大会)、WAIC2024(世界人工智能大会)、CCF-Talk(中国计算机学会)、CSDN-ML(机器学习峰会)、AIDD、DatafunTalk等；
   
 - 🏠 **技术社区**：创立老刘说NLP技术公众号/社区，粉丝数超53K，围绕知识图谱、文档智能、RAG、大模型四个主题，原创文章860+；
+
+- <img src="wechat.png" width="30%" height="auto">
