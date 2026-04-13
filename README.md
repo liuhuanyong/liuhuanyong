@@ -8,7 +8,7 @@
   
 - 🛞 **论文及专利**：发明专利授权3项、申请十余项，中文信息学报、TOIS(CCF-A)、ICASSP(CCF-B)顶会论文数篇；
   
-- 🏆 **国内外竞赛**：CCKS2022多模态实体对齐、OGB-Wikikg2实体链接预测、ICPR2024多行公式识别、ICDAR2025文档翻译及问答等获TOP1-3；
+- 🏆 **国内外竞赛**：CCKS2022多模态实体对齐、OGB-Wikikg2实体链接预测等。
   
 - 🎦 **开源项目**：NLP项目70余项，累计star数超2W，代表项目QASystemOnMedicalKG(star数6.8k, fork数2.2k)，follower数超6k，GithubRanker中国区排名TOP 70；
   
