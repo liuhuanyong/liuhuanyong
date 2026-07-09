@@ -4,9 +4,9 @@
 ## 我在做的事儿
 - 💗 **研究方向**：知识图谱(Knowledge Graph)、文档智能（Document Intelligence）、RAG知识增强(Retrieval-Augmented Generation)、文本计算(Text Computation)
   
-- 🧵 **主导或参与项目**：全行业事理图谱(学迹)、360百科图谱(右侧推荐)、360自研文档解析系统(360Structure)，360智脑大模型(数据挖掘与评测)；
+- 🧵 **主导或参与项目**：全行业事理图谱(学迹)、百科图谱(右侧推荐)、文档解析系统，智脑大模型(数据挖掘与评测)；
   
-- 🛞 **论文及专利**：发明专利授权3项、申请十余项，中文信息学报、TOIS(CCF-A)、ICASSP(CCF-B)顶会论文数篇；
+- 🛞 **论文及专利**：发明专利授权3项、申请十余项，中文信息学报、TOIS(CCF-A)、ICASSP(CCF-B)、CCKS2026论文数篇；
   
 - 🏆 **国内外竞赛**：CCKS2022多模态实体对齐、OGB-Wikikg2实体链接预测等。
   
